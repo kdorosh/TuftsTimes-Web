@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Tufts Times</title>
+<link href="main.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+  .details {
+    display: none;
+  }
+</style>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+        $(".project").on('click', function() { 
+				if ($(this).parent().find('.details').is(":hidden")) {
+				$('.details').slideUp("fast");
+	            $(this).parent().find('.details').slideDown("fast");
+			} else {
+				$('.details').slideUp();
+			}
+        });
+    });
+
+    function openmenu() {
+		document.getElementById("topmenu").style.left=0;
+		document.getElementById("topmenu").style.opacity=1;
+    }
+    
+    function closemenu() {
+		document.getElementById("topmenu").style.left=-400;
+		document.getElementById("topmenu").style.opacity=0;
+    }
+</script>
+</head>
+
+<body>
+
+<div id="logo"></div>
+
+<center><input type="text" id="search" placeholder="Search"/></center>
+
+<!--
+<div>
+  <div class="project"><b>Project 1</b>
+  <div class="details">Some details</div></div>
+</div>
+<div>
+  <div class="project"><b>Project 2</b>
+  <div class="details">Some details</div></div>
+</div>
+<div>
+  <div class="project"><b>Project 3</b>
+  <div class="details">Some details</div></div>
+</div>
+-->
+<script src="loader.js"></script>	
+
+</body>
+
+</html>

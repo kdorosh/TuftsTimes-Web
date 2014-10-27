@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<category>
+		<title>Dining Halls:</title>
+		<item>
+			<name>Dewick</name>
+			<info><![CDATA[Mon-Thur 8:00AM - 9:00PM<br/>Fri-Sat 8:00AM - 8:00PM<br/>Sun 11:00AM - 9:00PM]]></info>
+			<times> <!--Sunday-->
+					<open>11</open>
+					<close>21</close>
+				</times>
+				<times> <!--Monday-->
+					<open>8</open>
+					<close>21</close>
+				</times>
+				<times> <!--Tues-->
+					<open>8</open>
+					<close>21</close>
+				</times>
+				<times> <!--Weds-->
+					<open>8</open>
+					<close>21</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>8</open>
+					<close>21</close>
+				</times>
+				<times> <!--Fri-->
+					<open>8</open>
+					<close>20</close>
+				</times>
+				<times> <!--Sat-->
+					<open>8</open>
+					<close>20</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Carmichael</name>
+			<info><![CDATA[Mon-Fri 7:15AM - 8:00PM<br/>Sat 11:00AM - 8:00PM<br/>Sun 8:00AM - 9:00PM]]></info>
+			<times> <!--Sunday-->
+					<open>8</open>
+					<close>21</close>
+				</times>
+				<times> <!--Monday-->
+					<open>7.25</open>
+					<close>20</close>
+				</times>
+				<times> <!--Tues-->
+					<open>7.25</open>
+					<close>20</close>
+				</times>
+				<times> <!--Weds-->
+					<open>7.25</open>
+					<close>20</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>7.25</open>
+					<close>20</close>
+				</times>
+				<times> <!--Fri-->
+					<open>7.25</open>
+					<close>20</close>
+				</times>
+				<times> <!--Sat-->
+					<open>11</open>
+					<close>20</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Pax Et Lox</name>
+			<info><![CDATA[Mon-Thur 11:00AM - 8:00PM<br/>Closed Fri-Sun]]></info>
+				<times> <!--Sunday-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Monday-->
+					<open>11</open>
+					<close>20</close>
+				</times>
+				<times> <!--Tues-->
+					<open>11</open>
+					<close>20</close>
+				</times>
+				<times> <!--Weds-->
+					<open>11</open>
+					<close>20</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>11</open>
+					<close>20</close>
+				</times>
+				<times> <!--Fri-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Sat-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Brown and Brew</name>
+			<info><![CDATA[Mon-Thur 8:00AM - 6:00PM<br/>Fri 8:00AM - 4:00PM<br/>Closed Sat-Sun<br/>Closed on Holidays]]></info>
+				<times> <!--Sunday-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Monday-->
+					<open>8</open>
+					<close>18</close>
+				</times>
+				<times> <!--Tues-->
+					<open>8</open>
+					<close>18</close>
+				</times>
+				<times> <!--Weds-->
+					<open>8</open>
+					<close>18</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>8</open>
+					<close>18</close>
+				</times>
+				<times> <!--Fri-->
+					<open>8</open>
+					<close>16</close>
+				</times>
+				<times> <!--Sat-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Rez</name>
+			<info><![CDATA[Mon-Wed 8:00AM - 12:00AM<br/>Thur 8:00AM - 10:00PM<br/>Fri 8:00AM - 10:00PM<br/>Sat 12:00PM - 4:00PM<br/>Sun 12:00PM - 12:00AM]]></info>
+				<times> <!--Sunday-->
+					<open>12</open>
+					<close>24</close>
+				</times>
+				<times> <!--Monday-->
+					<open>8</open>
+					<close>24</close>
+				</times>
+				<times> <!--Tues-->
+					<open>8</open>
+					<close>24</close>
+				</times>
+				<times> <!--Weds-->
+					<open>8</open>
+					<close>24</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>8</open>
+					<close>22</close>
+				</times>
+				<times> <!--Fri-->
+					<open>8</open>
+					<close>20</close>
+				</times>
+				<times> <!--Sat-->
+					<open>12</open>
+					<close>18</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Hodgdon</name>
+			<info><![CDATA[Mon-Thur 7:30AM - 10:00PM<br/>Fri 7:30AM - 4:00PM<br/>Closed on Weekends]]></info>
+				<times> <!--Sunday-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Monday-->
+					<open>7.5</open>
+					<close>22</close>
+				</times>
+				<times> <!--Tues-->
+					<open>7.5</open>
+					<close>22</close>
+				</times>
+				<times> <!--Weds-->
+					<open>7.5</open>
+					<close>22</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>7.5</open>
+					<close>22</close>
+				</times>
+				<times> <!--Fri-->
+					<open>7.5</open>
+					<close>16</close>
+				</times>
+				<times> <!--Sat-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>The Commons</name>
+			<info>Closed for Renovations</info>
+				<times> <!--Sunday-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Monday-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Tues-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Weds-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Fri-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Sat-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Mugar/Fletcher</name>
+			<info><![CDATA[Mon-Thur 8:00AM - 5:30PM<br/>Fri 8:00AM - 2:00PM<br/>Closed Sat-Sun<br/>Closed on Holidays]]></info>
+				<times> <!--Sunday-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Monday-->
+					<open>8</open>
+					<close>17.5</close>
+				</times>
+				<times> <!--Tues-->
+					<open>8</open>
+					<close>17.5</close>
+				</times>
+				<times> <!--Weds-->
+					<open>8</open>
+					<close>17.5</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>8</open>
+					<close>17.5</close>
+				</times>
+				<times> <!--Fri-->
+					<open>8</open>
+					<close>14</close>
+				</times>
+				<times> <!--Sat-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Tower Cafe at Tisch</name>
+			<info><![CDATA[Mon-Thur 10:00AM - 1:00AM<br/>Fri 10:00AM - 7:00PM<br/>Sat 12:00PM - 7:00PM<br/>Sun 12:00PM - 1:00AM]]></info>
+				<times> <!--Sunday-->
+					<open>12</open>
+					<close>1</close>
+				</times>
+				<times> <!--Monday-->
+					<open>10</open>
+					<close>1</close>
+				</times>
+				<times> <!--Tues-->
+					<open>10</open>
+					<close>1</close>
+				</times>
+				<times> <!--Weds-->
+					<open>10</open>
+					<close>1</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>10</open>
+					<close>1</close>
+				</times>
+				<times> <!--Fri-->
+					<open>10</open>
+					<close>19</close>
+				</times>
+				<times> <!--Sat-->
+					<open>12</open>
+					<close>19</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Hotung</name>
+			<info><![CDATA[Mon-Thur 8:00AM - 11:00PM<br/>Fri 8:00AM - 12:00AM<br/>Sat 10:00AM - 12:00AM<br/>Sun 10:00AM - 10:00PM]]></info>
+				<times> <!--Sunday-->
+					<open>10</open>
+					<close>22</close>
+				</times>
+				<times> <!--Monday-->
+					<open>8</open>
+					<close>23</close>
+				</times>
+				<times> <!--Tues-->
+					<open>8</open>
+					<close>23</close>
+					</times>
+				<times> <!--Weds-->
+					<open>8</open>
+					<close>23</close></times>
+				<times> <!--Thurs-->
+					<open>8</open>
+					<close>23</close></times>
+				<times> <!--Fri-->
+					<open>10</open>
+					<close>24</close>
+				</times>
+				<times> <!--Sat-->
+					<open>10</open>
+					<close>24</close>
+				</times>
+		</item>
+		
+	</category>
+	
+	
+	
+	<category>
+		<title>Academic Buildings:</title>
+		
+		<item>
+			<name>Library</name>
+			<info><![CDATA[Mon-Thur 8:00AM - 1:00AM<br/>Fri 8:00AM - 9:00PM<br/>Sat 10:00AM - 9:00PM<br/>Sun 10:00AM - 11:30PM]]></info>
+				<times> <!--Sunday-->
+					<open>10</open>
+					<close>23.5</close>
+				</times>
+				<times> <!--Monday-->
+					<open>8</open>
+					<close>1</close>
+				</times>
+				<times> <!--Tues-->
+					<open>8</open>
+					<close>1</close>
+				</times>
+				<times> <!--Weds-->
+					<open>8</open>
+					<close>1</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>8</open>
+					<close>1</close>
+				</times>
+				<times> <!--Fri-->
+					<open>8</open>
+					<close>21</close>
+				</times>
+				<times> <!--Sat-->
+					<open>10</open>
+					<close>21</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Library late night</name>
+			<info><![CDATA[Sun-Thur 1:00AM - 3:00AM<br/>Fri-Sat 9:00PM - 12:00AM]]></info>
+				<times> <!--Sunday-->
+					<open>1</open>
+					<close>3</close>
+				</times>
+				<times> <!--Monday-->
+					<open>1</open>
+					<close>3</close>
+				</times>
+				<times> <!--Tues-->
+					<open>1</open>
+					<close>3</close>
+				</times>
+				<times> <!--Weds-->
+					<open>1</open>
+					<close>3</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>1</open>
+					<close>3</close>
+				</times>
+				<times> <!--Fri-->
+					<open>21</open>
+					<close>24</close>
+				</times>
+				<times> <!--Sat-->
+					<open>21</open>
+					<close>24</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Halligan Hall</name>
+			<info>Open 24 hours for CS students</info> <!--Dis place cray cray. It alwayz open. So -1 = always open.-->
+				<times> <!--Sunday--> 
+					<open>-1</open>
+					<close>-1</close>
+				</times>
+				<times> <!--Monday-->
+					<open>-1</open>
+					<close>-1</close>
+				</times>
+				<times> <!--Tues-->
+					<open>-1</open>
+					<close>-1</close>
+				</times>
+				<times> <!--Weds-->
+					<open>-1</open>
+					<close>-1</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>-1</open>
+					<close>-1</close>
+				</times>
+				<times> <!--Fri-->
+					<open>-1</open>
+					<close>-1</close>
+				</times>
+				<times> <!--Sat-->
+					<open>-1</open>
+					<close>-1</close>
+				</times>
+		</item>
+	</category>
+	
+	
+	
+	<category>
+		<title>Off Campus Food:</title>
+			<item>
+			<name>Anna's Taqueria</name>
+			<info><![CDATA[Sun-Wed 9:00AM - 11:30PM<br/>Thur-Sat 9:00AM - 1:30AM<br/>No Jumbocash]]></info>
+				<times> <!--Sunday-->
+					<open>9</open>
+					<close>23.5</close>
+				</times>
+				<times> <!--Monday-->
+					<open>9</open>
+					<close>23.5</close>
+				</times>
+				<times> <!--Tues-->
+					<open>9</open>
+					<close>23.5</close>
+				</times>
+				<times> <!--Weds-->
+					<open>9</open>
+					<close>23.5</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>9</open>
+					<close>1.5</close>
+				</times>
+				<times> <!--Fri-->
+					<open>9</open>
+					<close>1.5</close>
+				</times>
+				<times> <!--Sat-->
+					<open>9</open>
+					<close>1.5</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Boston Burger Co.</name>
+			<info><![CDATA[Mon-Wed 11:00AM - 10:00PM<br/>Thur-Sat 11:00AM - 11:00PM<br/>Sun 12:00PM - 9:00PM<br/>No Jumbocash]]></info>
+			<times> <!--Sunday-->
+					<open>12</open>
+					<close>21</close>
+				</times>
+				<times> <!--Monday-->
+					<open>11</open>
+					<close>22</close>
+				</times>
+				<times> <!--Tues-->
+					<open>11</open>
+					<close>22</close>
+				</times>
+				<times> <!--Weds-->
+					<open>11</open>
+					<close>22</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>11</open>
+					<close>23</close>
+				</times>
+				<times> <!--Fri-->
+					<open>11</open>
+					<close>23</close>
+				</times>
+				<times> <!--Sat-->
+					<open>11</open>
+					<close>23</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>JP Licks</name>
+			<info><![CDATA[Sun-Thur 10:00AM - 11:00PM<br/>Fri-Sat 10:00AM - 12:00AM]]></info>
+			<times> <!--Sunday-->
+					<open>10</open>
+					<close>23</close>
+				</times>
+				<times> <!--Monday-->
+					<open>10</open>
+					<close>23</close>
+				</times>
+				<times> <!--Tues-->
+					<open>10</open>
+					<close>23</close>
+				</times>
+				<times> <!--Weds-->
+					<open>10</open>
+					<close>23</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>10</open>
+					<close>23</close>
+				</times>
+				<times> <!--Fri-->
+					<open>10</open>
+					<close>24</close>
+				</times>
+				<times> <!--Sat-->
+					<open>10</open>
+					<close>24</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Chipotle</name>
+			<info><![CDATA[Mon-Sun 11:00AM - 10:00PM<br/>Yes Jumbocash]]></info>
+			<times> <!--Sunday-->
+					<open>11</open>
+					<close>22</close>
+				</times>
+				<times> <!--Monday-->
+					<open>11</open>
+					<close>22</close>
+				</times>
+				<times> <!--Tues-->
+					<open>11</open>
+					<close>22</close>
+				</times>
+				<times> <!--Weds-->
+					<open>11</open>
+					<close>22</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>11</open>
+					<close>22</close>
+				</times>
+				<times> <!--Fri-->
+					<open>11</open>
+					<close>22</close>
+				</times>
+				<times> <!--Sat-->
+					<open>11</open>
+					<close>22</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Mike's</name>
+			<info><![CDATA[Mon-Sun 5:00PM - 9:00PM]]></info>
+			<times> <!--Sunday-->
+					<open>17</open>
+					<close>21</close>
+				</times>
+				<times> <!--Monday-->
+					<open>17</open>
+					<close>21</close>
+				</times>
+				<times> <!--Tues-->
+					<open>17</open>
+					<close>21</close>
+				</times>
+				<times> <!--Weds-->
+					<open>17</open>
+					<close>21</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>17</open>
+					<close>21</close>
+				</times>
+				<times> <!--Fri-->
+					<open>17</open>
+					<close>21</close>
+				</times>
+				<times> <!--Sat-->
+					<open>17</open>
+					<close>21</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Redbones</name>
+			<info><![CDATA[Sun 12:00PM - 11:00PM<br/>Mon 11:30AM - 11:00PM<br/>Tue-Sat 11:30AM - 12:30AM]]></info>
+			<times> <!--Sunday-->
+					<open>12</open>
+					<close>23</close>
+				</times>
+				<times> <!--Monday-->
+					<open>11.5</open>
+					<close>23</close>
+				</times>
+				<times> <!--Tues-->
+					<open>11.5</open>
+					<close>0.5</close>
+				</times>
+				<times> <!--Weds-->
+					<open>11.5</open>
+					<close>0.5</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>11.5</open>
+					<close>0.5</close>
+				</times>
+				<times> <!--Fri-->
+					<open>11.5</open>
+					<close>0.5</close>
+				</times>
+				<times> <!--Sat-->
+					<open>11.5</open>
+					<close>0.5</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>CVS</name>
+			<info><![CDATA[<b>Store:</b><br/>Mon-Sun 7:00AM - 12:00AM<br/>Yes Jumbocash<br/><b>Pharmacy:</b><br/>Mon-Fri 8:00AM - 10:00PM<br/>Sat-Sun 8:00AM - 8:00PM]]></info>
+			<times> <!--Sunday-->
+					<open>7</open>
+					<close>24</close>
+				</times>
+				<times> <!--Monday-->
+					<open>7</open>
+					<close>24</close>
+				</times>
+				<times> <!--Tues-->
+					<open>7</open>
+					<close>24</close>
+				</times>
+				<times> <!--Weds-->
+					<open>7</open>
+					<close>24</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>7</open>
+					<close>24</close>
+				</times>
+				<times> <!--Fri-->
+					<open>7</open>
+					<close>24</close>
+				</times>
+				<times> <!--Sat-->
+					<open>7</open>
+					<close>24</close>
+				</times>
+		</item>
+	</category>
+	
+	
+	
+	<category>
+		<title>Delivery/Take Out:</title>
+		
+		<item>
+			<name>Pizza Days</name>
+			<info>Mon-Sun 4:00PM - 3:00AM</info>
+			<times> <!--Sunday-->
+					<open>16</open>
+					<close>3</close>
+				</times>
+				<times> <!--Monday-->
+					<open>16</open>
+					<close>3</close>
+				</times>
+				<times> <!--Tues-->
+					<open>16</open>
+					<close>3</close>
+				</times>
+				<times> <!--Weds-->
+					<open>16</open>
+					<close>3</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>16</open>
+					<close>3</close>
+				</times>
+				<times> <!--Fri-->
+					<open>16</open>
+					<close>3</close>
+				</times>
+				<times> <!--Sat-->
+					<open>16</open>
+					<close>3</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Golden Light Restaurant</name>
+			<info><![CDATA[Sun-Thur 5:00PM - 2:00AM<br/>Fri 5:00PM - 3:00AM<br/>Sat 5:00PM - 12:00AM]]></info>
+			<times> <!--Sunday-->
+					<open>17</open>
+					<close>2</close>
+				</times>
+				<times> <!--Monday-->
+					<open>17</open>
+					<close>2</close>
+				</times>
+				<times> <!--Tues-->
+					<open>17</open>
+					<close>2</close>
+				</times>
+				<times> <!--Weds-->
+					<open>17</open>
+					<close>2</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>17</open>
+					<close>2</close>
+				</times>
+				<times> <!--Fri-->
+					<open>17</open>
+					<close>3</close>
+				</times>
+				<times> <!--Sat-->
+					<open>17</open>
+					<close>24</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>MOE'SSS</name>
+			<info><![CDATA[Thur if you're lucky<br/>Fri-Sun 9:30PM - 2:30AM (approx.)<br/>Closed Mon-Wed]]></info>
+			<times> <!--Sunday-->
+					<open>21.5</open>
+					<close>2.5</close>
+				</times>
+				<times> <!--Monday-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Tues-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Weds-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Fri-->
+					<open>21.5</open>
+					<close>2.5</close>
+				</times>
+				<times> <!--Sat-->
+					<open>21.5</open>
+					<close>2.5</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Espressos</name>
+			<info><![CDATA[Sun-Mon 4:00PM - 1:00AM<br/>Tue 11:00AM - 2:00AM<br/>Wed-Sat 11:00AM - 3:00AM<br/>Yes Jumbocash]]></info>
+			<times> <!--Sunday-->
+					<open>16</open>
+					<close>1</close>
+				</times>
+				<times> <!--Monday-->
+					<open>16</open>
+					<close>1</close>
+				</times>
+				<times> <!--Tues-->
+					<open>11</open>
+					<close>2</close>
+				</times>
+				<times> <!--Weds-->
+					<open>11</open>
+					<close>3</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>11</open>
+					<close>3</close>
+				</times>
+				<times> <!--Fri-->
+					<open>11</open>
+					<close>3</close>
+				</times>
+				<times> <!--Sat-->
+					<open>11</open>
+					<close>3</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Nick's HOP</name>
+			<info>Mon-Sun 10:00AM - 11:00PM</info>
+			<times> <!--Sunday-->
+					<open>10</open>
+					<close>23</close>
+				</times>
+				<times> <!--Monday-->
+					<open>10</open>
+					<close>23</close>
+				</times>
+				<times> <!--Tues-->
+					<open>10</open>
+					<close>23</close>
+				</times>
+				<times> <!--Weds-->
+					<open>10</open>
+					<close>23</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>10</open>
+					<close>23</close>
+				</times>
+				<times> <!--Fri-->
+					<open>10</open>
+					<close>23</close>
+				</times>
+				<times> <!--Sat-->
+					<open>10</open>
+					<close>23</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Dunkin Donuts</name>
+			<info><![CDATA[<b>364 Boston Ave, Medford:</b><br/>Sun 6:00AM - 9:00PM<br/>Mon-Sat 5:00AM - 9:00PM<br/><b>244 Elm St, Somerville:</b><br/>Mon-Sun 5:00AM - 12:00AM<br/><b>850 Broadway, Somerville:</b><br/>Mon-Thur 5:00AM - 10:00PM<br/>Fri-Sat 5:00AM - 11:00PM<br/>Sun 5:30AM - 10:00PM]]></info>
+				<times> <!--Sunday-->
+					<open>5</open>
+					<close>24</close>
+				</times>
+				<times> <!--Monday-->
+					<open>5</open>
+					<close>24</close>
+				</times>
+				<times> <!--Tues-->
+					<open>5</open>
+					<close>24</close>
+				</times>
+				<times> <!--Weds-->
+					<open>5</open>
+					<close>24</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>5</open>
+					<close>24</close>
+				</times>
+				<times> <!--Fri-->
+					<open>5</open>
+					<close>24</close>
+				</times>
+				<times> <!--Sat-->
+					<open>5</open>
+					<close>24</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Helen's</name>
+			<info><![CDATA[<b>Store:</b><br/>Mon-Sun 11:00AM - 3:00AM<br/><b>Delivery:</b><br/>Mon-Sun 11:00AM - 2:30AM]]></info>
+			<times> <!--Sunday-->
+					<open>11</open>
+					<close>2.5</close>
+				</times>
+				<times> <!--Monday-->
+					<open>11</open>
+					<close>2.5</close>
+				</times>
+				<times> <!--Tues-->
+					<open>11</open>
+					<close>2.5</close>
+				</times>
+				<times> <!--Weds-->
+					<open>11</open>
+					<close>2.5</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>11</open>
+					<close>2.5</close>
+				</times>
+				<times> <!--Fri-->
+					<open>11</open>
+					<close>2.5</close>
+				</times>
+				<times> <!--Sat-->
+					<open>11</open>
+					<close>2.5</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Danish Pastry House</name>
+			<info><![CDATA[Mon-Thur 7:00AM - 9:00PM<br/>Fri-Sat 7:00AM - 10:00PM<br/>Sun 8:00AM - 8:00PM]]></info>
+			<times> <!--Sunday-->
+					<open>8</open>
+					<close>20</close>
+				</times>
+				<times> <!--Monday-->
+					<open>7</open>
+					<close>21</close>
+				</times>
+				<times> <!--Tues-->
+					<open>7</open>
+					<close>21</close>
+				</times>
+				<times> <!--Weds-->
+					<open>7</open>
+					<close>21</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>7</open>
+					<close>21</close>
+				</times>
+				<times> <!--Fri-->
+					<open>7</open>
+					<close>22</close>
+				</times>
+				<times> <!--Sat-->
+					<open>7</open>
+					<close>22</close>
+				</times>
+		</item>
+	</category>
+	
+	<category>
+		<title>Miscellaneous:</title>
+
+		<item>
+			<name>Mail Services</name>
+			<info><![CDATA[Mon-Fri 7:30AM - 5:30PM<br/>Sat 9:00AM - 5:00PM<br/>Closed on Sundays]]></info>
+			<times> <!--Sunday-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Monday-->
+					<open>7.5</open>
+					<close>17.5</close>
+				</times>
+				<times> <!--Tues-->
+					<open>7.5</open>
+					<close>17.5</close>
+				</times>
+				<times> <!--Weds-->
+					<open>7.5</open>
+					<close>17.5</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>7.5</open>
+					<close>17.5</close>
+				</times>
+				<times> <!--Fri-->
+					<open>7.5</open>
+					<close>17.5</close>
+				</times>
+				<times> <!--Sat-->
+					<open>9</open>
+					<close>17</close>
+				</times>
+		</item>
+		<item>
+			<name>IT</name>
+			<info><![CDATA[Mon-Fri 9:00AM - 5:00PM<br/>Closed Sat-Sun<br/>Eaton Hall - it@tufts.edu - 617-627-3376]]></info>
+			<times> <!--Sunday-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Monday-->
+					<open>9</open>
+					<close>17</close>
+				</times>
+				<times> <!--Tues-->
+					<open>9</open>
+					<close>17</close>
+				</times>
+				<times> <!--Weds-->
+					<open>9</open>
+					<close>17</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>9</open>
+					<close>17</close>
+				</times>
+				<times> <!--Fri-->
+					<open>9</open>
+					<close>17</close>
+				</times>
+				<times> <!--Sat-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+		</item>
+		<item>
+			<name>Athletics</name>
+			<info><![CDATA[<a href='http://www.gotuftsjumbos.com/facilities/information' target='_blank'>Hours</a>]]></info>
+			<times> <!--Sunday-->
+					<open>10</open>
+					<close>22.5</close>
+				</times>
+				<times> <!--Monday-->
+					<open>7</open>
+					<close>22.5</close>
+				</times>
+				<times> <!--Tues-->
+					<open>7</open>
+					<close>22.5</close>
+				</times>
+				<times> <!--Weds-->
+					<open>7</open>
+					<close>22.5</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>7</open>
+					<close>22.5</close>
+				</times>
+				<times> <!--Fri-->
+					<open>7</open>
+					<close>22.5</close>
+				</times>
+				<times> <!--Sat-->
+					<open>10</open>
+					<close>19</close>
+				</times>
+		</item>
+		<item>
+			<name>Health Services</name>
+			<info><![CDATA[Mon/Tue/Thur 8:00AM - 6:00PM<br/>Wed 10:00AM - 6:00PM<br/>Fri 8:00AM - 5:00PM<br/>Sat and Holidays 10:30AM - 5:00PM<br/>Closed on Sundays, Thanksgiving, Christmas, and New Year's<br/><a href='http://ase.tufts.edu/healthservice/aboutHours.htm' target='_blank'>More Info Here</a>]]></info>
+			<times> <!--Sunday-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Monday-->
+					<open>8</open>
+					<close>18</close>
+				</times>
+				<times> <!--Tues-->
+					<open>8</open>
+					<close>18</close>
+				</times>
+				<times> <!--Weds-->
+					<open>10</open>
+					<close>18</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>8</open>
+					<close>18</close>
+				</times>
+				<times> <!--Fri-->
+					<open>8</open>
+					<close>17</close>
+				</times>
+				<times> <!--Sat-->
+					<open>10.5</open>
+					<close>17</close>
+				</times>
+		</item>
+		<item>
+			<name>Crafts Center</name>
+			<info><![CDATA[Sun 12:00PM - 6:00PM<br/>Mon-Tue 7:00PM - 11:00PM<br/>Wed 6:00PM - 11:00PM<br/>Thu 1:00PM - 4:00PM; 7:00PM - 10:00PM<br/>Fri 2:00PM - 5:00PM<br/>Closed on Saturdays]]></info>
+			<times> <!--Sunday-->
+					<open>12</open>
+					<close>18</close>
+				</times>
+				<times> <!--Monday-->
+					<open>19</open>
+					<close>23</close>
+				</times>
+				<times> <!--Tues-->
+					<open>19</open>
+					<close>23</close>
+				</times>
+				<times> <!--Weds-->
+					<open>18</open>
+					<close>23</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>13</open>
+					<close>22</close>
+				</times>
+				<times> <!--Fri-->
+					<open>14</open>
+					<close>17</close>
+				</times>
+				<times> <!--Sat-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+		</item>
+		<item>
+			<name>Bookstore</name>
+			<info><![CDATA[Mon-Wed 9:00AM - 6:00PM<br/>Thur 9:00AM - 7:00PM<br/>Fri 9:00AM - 5:00PM<br/>Sat 11:00AM - 3:00PM<br/>Closed on Sundays]]></info>
+			<times> <!--Sunday-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Monday-->
+					<open>9</open>
+					<close>18</close>
+				</times>
+				<times> <!--Tues-->
+					<open>9</open>
+					<close>18</close>
+				</times>
+				<times> <!--Weds-->
+					<open>9</open>
+					<close>18</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>9</open>
+					<close>19</close>
+				</times>
+				<times> <!--Fri-->
+					<open>9</open>
+					<close>17</close>
+				</times>
+				<times> <!--Sat-->
+					<open>11</open>
+					<close>15</close>
+				</times>
+		</item>
+		
+		<item>
+			<name>Career Center</name>
+			<info><![CDATA[<b>Dowling:</b><br/>Mon/Wed/Fri 12:00PM - 3:00PM<br/>Tue/Thur 1:00PM - 4:00PM<br/><b>SciTech:</b><br/>Mon 11:30AM - 12:30PM<br/><b>Anderson:</b><br/>Tue 2:30PM - 4:30PM<br/><b>Halligan:</b><br/>Thur 3:00PM - 5:00PM]]></info>
+			<times> <!--Sunday-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+				<times> <!--Monday-->
+					<open>12</open>
+					<close>3</close>
+				</times>
+				<times> <!--Tues-->
+					<open>13</open>
+					<close>16</close>
+				</times>
+				<times> <!--Weds-->
+					<open>12</open>
+					<close>3</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>13</open>
+					<close>16</close>
+				</times>
+				<times> <!--Fri-->
+					<open>12</open>
+					<close>3</close>
+				</times>
+				<times> <!--Sat-->
+					<open>0</open>
+					<close>0</close>
+				</times>
+		</item>
+	</category>
+	<category>
+		<title>Shuttle Service:</title>
+
+		<item>
+			<name>Davis Square Shuttle - Day</name>
+			<info><![CDATA[Campus Center, Davis Square, TAB, Olin<br/><a href='http://publicsafety.tufts.edu/adminsvc/day-schedule-monday-friday/' target='_blank'>Mon-Fri 7:00AM - 6:00PM</a><br/><a href='http://publicsafety.tufts.edu/adminsvc/saturday-schedule-2/' target='_blank'>Sat 10:00AM - 1:15AM No TAB Stop!</a><br/><a href='http://publicsafety.tufts.edu/adminsvc/sunday-schedule-2/' target='_blank'>Sun 10:00AM - 12:20AM No TAB Stop!</a>]]></info>
+			<times> <!--Sunday-->
+					<open>10</open>
+					<close>0.25</close>
+				</times>
+				<times> <!--Monday-->
+					<open>7</open>
+					<close>18</close>
+				</times>
+				<times> <!--Tues-->
+					<open>7</open>
+					<close>18</close>
+				</times>
+				<times> <!--Weds-->
+					<open>7</open>
+					<close>18</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>7</open>
+					<close>18</close>
+				</times>
+				<times> <!--Fri-->
+					<open>7</open>
+					<close>18</close>
+				</times>
+				<times> <!--Sat-->
+					<open>10</open>
+					<close>1.25</close>
+				</times>
+		</item>
+		<item>
+			<name>Davis Square Shuttle - Night</name>
+			<info><![CDATA[Campus Center, Davis Square, Olin<br/><a href='http://publicsafety.tufts.edu/adminsvc/night-schedule-monday-wednesday-2/' target='_blank'>Mon-Wed 6:00PM - 12:20AM<br/><a href='http://publicsafety.tufts.edu/adminsvc/night-schedule-thursday-friday-2/' target='_blank'>Thur-Fri 6:00PM - 1:50AM</a>]]></info>
+			<times> <!--Sunday-->
+					<open>10</open>
+					<close>0.25</close>
+				</times>
+				<times> <!--Monday-->
+					<open>18</open>
+					<close>0.25</close>
+				</times>
+				<times> <!--Tues-->
+					<open>18</open>
+					<close>0.25</close>
+				</times>
+				<times> <!--Weds-->
+					<open>18</open>
+					<close>0.25</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>18</open>
+					<close>1.75</close>
+				</times>
+				<times> <!--Fri-->
+					<open>18</open>
+					<close>1.75</close>
+				</times>
+				<times> <!--Sat-->
+					<open>10</open>
+					<close>1.25</close>
+				</times>
+		</item>
+		<item>
+			<name>Boston Avenue Shuttle</name>
+			<info><![CDATA[Sci-Tech, Halligan, Dowling, 200 Boston Ave<br/><a href='http://publicsafety.tufts.edu/adminsvc/boston-avenue-shuttle/' target='_blank'>Mon-Sun 1:00PM - 10:00PM<br/>Fri 1:00PM - 6:00PM</a>]]></info>
+			<times> <!--Sunday-->
+					<open>13</open>
+					<close>22</close>
+				</times>
+				<times> <!--Monday-->
+					<open>13</open>
+					<close>22</close>
+				</times>
+				<times> <!--Tues-->
+					<open>13</open>
+					<close>22</close>
+				</times>
+				<times> <!--Weds-->
+					<open>13</open>
+					<close>22</close>
+				</times>
+				<times> <!--Thurs-->
+					<open>13</open>
+					<close>22</close>
+				</times>
+				<times> <!--Fri-->
+					<open>13</open>
+					<close>18</close>
+				</times>
+				<times> <!--Sat-->
+					<open>13</open>
+					<close>22</close>
+				</times>
+		</item>
+		
+	</category>
+	
+</list>
+
+<!--
+<category>
+	<title></title>
+
+		<item>
+			<name></name>
+			<info></info>
+		</item>
+</category>
+-->
